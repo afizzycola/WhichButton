@@ -1,0 +1,14 @@
+RecipeIntent what button is {Item} on {Game}
+RecipeIntent how do you do {Item} on {Game}
+RecipeIntent how do I {Item} on {Game}
+RecipeIntent what's {Item} on {Game}
+RecipeIntent what is {Item} on {Game}
+RecipeIntent what's the button for {Item} on {Game}
+RecipeIntent what is the button for {Item} on {Game}
+RecipeIntent button to {Item} on {Game}
+RecipeIntent {Item} on {Game}
+RecipeIntent is {Item} on {Game}
+OtherButtonIntent what about {Item}
+OtherButtonIntent how about {Item}
+OtherButtonIntent {Item}
+OtherButtonIntent and {Item}

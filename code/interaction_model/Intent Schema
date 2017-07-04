@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        },
+        {
+          "name": "Game",
+          "type": "LIST_OF_GAMES"
+        }
+      ],
+      "intent": "RecipeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        }
+      ],
+      "intent": "OtherButtonIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
